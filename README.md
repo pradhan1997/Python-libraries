@@ -24,3 +24,4 @@ JavaScript
 ========
 
 1. [anime.js](https://animejs.com/) Animation and microinteractions are all the rage these days, and anime.js is a flexible JavaScript library that can help you add some dashes of motion to your site. It works with CSS, Individual Transforms, SVG, DOM attributes, and JavaScript Objects, making it super versatile and perfect for almost any project
+2. [AOS – Animate On Scroll](https://michalsnik.github.io/aos/)The Animate on Scroll JavaScript library can help you add some sweet animations as a user scrolls down the page. From fade effects to static anchor placements, this library will help you create a delightful site design that keeps users engaged.
