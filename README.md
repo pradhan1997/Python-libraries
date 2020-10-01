@@ -19,3 +19,8 @@ Java
 3. [Gradle](https://gradle.org/) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 4. [Singularity](http://getsingularity.com/) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 5. [picocli](http://picocli.info/) - ANSI colors and styles in usage help. Can be included as source to avoid dependency. Annotation-based, POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
+
+JavaScript
+========
+
+1. [anime.js](https://animejs.com/) Animation and microinteractions are all the rage these days, and anime.js is a flexible JavaScript library that can help you add some dashes of motion to your site. It works with CSS, Individual Transforms, SVG, DOM attributes, and JavaScript Objects, making it super versatile and perfect for almost any project
