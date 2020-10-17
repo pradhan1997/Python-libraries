@@ -10,7 +10,9 @@ A comprehensive list of some important python libraries
 6. [matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 7. [scikit-learn](https://scikit-learn.org/) - scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 8. [Pytorch](https://pytorch.org/) - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-9.7. Theano is a computational framework machine learning library in Python for computing multidimensional arrays.(better use tenserflow)
+9. Theano is a computational framework machine learning library in Python for computing multidimensional arrays.(better use tenserflow)
+10. [Keras](https://keras.io/) Keras is an open-source library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+11. [OpenCV](https://opencv.org/) OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
 
 
 Java
